@@ -1,0 +1,32 @@
+# Visual Studio 本地缓存 / 用户设置
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# 构建输出
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# 编译产物
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog
+*.recipe
+*.log
+
+# Claude Code 本地设置
+.claude/
